@@ -10,8 +10,9 @@ owo
 How to make the code with FlowVix ???
 
 # how to Buil;d???
-- uhh run `ffmpeg -i cube.gif frames/frame_%d.png`
-- theb uhhhhhhh run `npm i`
+- uh first make directory named frames using `mkdir frames`
+- then uhh run `ffmpeg -i cube.gif frames/frame_%d.png`
+- theb uhhhhhhh `npm i`
 - make new empty GD level
 - uh `node .`
 - ok don! Now check level and prfoit
